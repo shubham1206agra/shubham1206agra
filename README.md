@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🖼️ Random Image
-![](https://picsum.photos/512)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shubham1206agra&icon=2&color=12)](https://visitcount.itsvg.in)
 
