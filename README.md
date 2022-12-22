@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🖼️ Random Image
-<img src="https://picsum.photos/512" width="512px"/>
+![](https://picsum.photos/512)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubham1206agra&icon=2&color=12)](https://visitcount.itsvg.in)
