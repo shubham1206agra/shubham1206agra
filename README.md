@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++, Python, NodeJS, HTML/CSS<br>👯 I’m looking to collaborate on any new ideas<br>🌱 I’m currently learning Docker<br>💬 Ask me about anything related to GSoC<br><br>⚡ Fun fact<br>'Typewriter' is the longest word you can type on a QWERTY keyboard, using only one of the rows on your keyboard.
+🔭 I’m currently working on C++, Python, NodeJS, HTML/CSS<br>👯 I’m looking to collaborate on any new ideas<br>🌱 I’m currently learning Docker<br>💬 Ask me about anything related to GSoC and open source contribution<br><br>⚡ Fun fact<br>'Typewriter' is the longest word you can type on a QWERTY keyboard, using only one of the rows on your keyboard.
 
 
 ## 🌐 Socials:
